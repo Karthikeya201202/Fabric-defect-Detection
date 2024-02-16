@@ -14,3 +14,9 @@ For computer image processing and analysis system, a clear and noiseless image c
 ### A. Edge Detection
 Image segmentation is an important basis of image analysis. It is necessary to segment the preprocessed plain woven fabric image, locate the desired defect area, and extract the complete defect area from the image background for analysis. According to the characteristics of plain woven fabric defect images, different edge detection methods are compared to choose the most suitable one for segmentation. Roberts operator is finally chosen as the edge detection operator for segmentation.
 ## Results
+<img width="383" alt="image" src="https://github.com/Karthikeya201202/Fabric-defect-Detection/assets/92677934/28ecb1b3-f0a0-4d8c-b481-7afbcf27477c">
+<img width="350" alt="image" src="https://github.com/Karthikeya201202/Fabric-defect-Detection/assets/92677934/50f1e364-a862-4001-8576-873cb4ea43d9">
+<img width="380" alt="image" src="https://github.com/Karthikeya201202/Fabric-defect-Detection/assets/92677934/d86f93d6-eb66-4b74-9aa3-53f32906a85d">
+
+
+
